@@ -1,0 +1,40 @@
+19.05.2015 11:12:41
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+0 warnings (4 sind erlaubt), 0 errors (0 sind erlaubt)
+
+JUnit: bestanden
+17 von 17 Tests bestanden. (17 Tests werden benoetigt zum Bestehen.)
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:6: In der Klassen-Dokumentation fehlt ein @author-Tag.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:8:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:16:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:33:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:46:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:61:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:73:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:116:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A7/src/de/ostfalia/gdp/ss15/Matrix.java:136:5: Javadoc-Kommentar fehlt.
+Audit done.
+
+
+JUnit-Ausgabe:
+JUnit version 4.11
+............{}
+.{{1.0}}
+.{{1.0,2.0},{3.0,4.0}}
+...
+Time: 0,02
+
+OK (17 tests)
+
+

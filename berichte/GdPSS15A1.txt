@@ -1,0 +1,81 @@
+19.05.2015 02:25:35
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+0 warnings (4 sind erlaubt), 0 errors (0 sind erlaubt)
+
+JUnit: bestanden
+10 von 10 Tests bestanden. (10 Tests werden benoetigt zum Bestehen.)
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+Audit done.
+
+
+JUnit-Ausgabe:
+JUnit version 4.11
+.Ueberspringe H\xc3\x83\xc2\xa4lfte
+Ueberspringe 
+Ueberspringe Doppeltes
+Ueberspringe 
+Ueberspringe Quadrat
+Ueberspringe 
+.Ueberspringe H\xc3\x83\xc2\xa4lfte
+Ueberspringe 
+Ueberspringe Doppeltes
+Ueberspringe 
+Ueberspringe H\xc3\x83\xc2\xa4lfte
+Ueberspringe 
+Ueberspringe Doppeltes
+Ueberspringe 
+Ueberspringe Quadrat
+Ueberspringe 
+.Ueberspringe H\xc3\x83\xc2\xa4lfte
+Ueberspringe 
+Ueberspringe Doppeltes
+Ueberspringe 
+Ueberspringe Quadrat
+Ueberspringe 
+.Ueberspringe H\xc3\x83\xc2\xa4lfte
+Ueberspringe 
+Ueberspringe Doppeltes
+Ueberspringe 
+Ueberspringe Quadrat
+Ueberspringe 
+..Ueberspringe Tag(e)
+Ueberspringe 
+Ueberspringe Stunde(n)
+Ueberspringe Minute(n)
+Ueberspringe 
+.Ueberspringe Tag(e)
+Ueberspringe 
+Ueberspringe Stunde(n)
+Ueberspringe Minute(n)
+Ueberspringe 
+.Ueberspringe Tag(e)
+Ueberspringe 
+Ueberspringe Stunde(n)
+Ueberspringe Minute(n)
+Ueberspringe 
+.Ueberspringe Tag(e)
+Ueberspringe 
+Ueberspringe Stunde(n)
+Ueberspringe Minute(n)
+Ueberspringe 
+.Ueberspringe Tag(e)
+Ueberspringe 
+Ueberspringe Stunde(n)
+Ueberspringe Minute(n)
+Ueberspringe 
+
+Time: 0,093
+
+OK (10 tests)
+
+

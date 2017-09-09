@@ -1,0 +1,28 @@
+19.05.2015 09:48:04
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+0 warnings (4 sind erlaubt), 0 errors (0 sind erlaubt)
+
+JUnit: bestanden
+78 von 78 Tests bestanden. (78 Tests werden benoetigt zum Bestehen.)
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+Audit done.
+
+
+JUnit-Ausgabe:
+JUnit version 4.11
+..............................................................................
+Time: 0,065
+
+OK (78 tests)
+
+

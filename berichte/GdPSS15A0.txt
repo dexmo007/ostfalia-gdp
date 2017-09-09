@@ -1,0 +1,19 @@
+19.05.2015 02:23:22
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+0 warnings (9 sind erlaubt), 0 errors (0 sind erlaubt)
+
+
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A0/src/de/ostfalia/gdp/ss15/HelloWorld2.java:8: In der Klassen-Dokumentation fehlt ein @author-Tag.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A0/src/de/ostfalia/gdp/ss15/HelloWorld2.java:9:5: Javadoc-Kommentar fehlt.
+Audit done.

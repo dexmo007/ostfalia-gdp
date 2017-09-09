@@ -1,0 +1,31 @@
+19.05.2015 02:32:14
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+0 warnings (4 sind erlaubt), 0 errors (0 sind erlaubt)
+
+JUnit: bestanden
+9 von 9 Tests bestanden. (9 Tests werden benoetigt zum Bestehen.)
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A4/src/de/ostfalia/gdp/ss15/Sinus.java:8: In der Klassen-Dokumentation fehlt ein @author-Tag.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A4/src/de/ostfalia/gdp/ss15/Sinus.java:10:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A4/src/de/ostfalia/gdp/ss15/Sinus.java:16:38: Erwartete Tag @param f\xc3\xbcr 'args'.
+Audit done.
+
+
+JUnit-Ausgabe:
+JUnit version 4.11
+.........
+Time: 0,222
+
+OK (9 tests)
+
+

@@ -1,0 +1,67 @@
+19.05.2015 11:15:00
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+0 warnings (4 sind erlaubt), 0 errors (0 sind erlaubt)
+
+JUnit: bestanden
+28 von 28 Tests bestanden. (28 Tests werden benoetigt zum Bestehen.)
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Room.java:12:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Room.java:16:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:8:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:12:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:20:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:28:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:40:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:52:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/TimeTable.java:64:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:8:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:9:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:12:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:13:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:14:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:15:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:16:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:17:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:18:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:22:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:23:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:24:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:31:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:37:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:261:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:268:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:274:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:280:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:286:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/DateTime.java:303:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:70:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:74:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:78:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:82:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:86:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:90:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:94:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:98:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:102:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A9/src/de/ostfalia/gdp/ss15/Lecture.java:106:5: Javadoc-Kommentar fehlt.
+Audit done.
+
+
+JUnit-Ausgabe:
+JUnit version 4.11
+............................
+Time: 0,024
+
+OK (28 tests)
+
+

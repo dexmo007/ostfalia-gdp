@@ -1,0 +1,46 @@
+19.05.2015 09:46:29
+
+Abgabe bestanden
+
+Checkstyle: bestanden
+2 warnings (4 sind erlaubt), 0 errors (0 sind erlaubt)
+
+JUnit: bestanden
+39 von 39 Tests bestanden. (39 Tests werden benoetigt zum Bestehen.)
+
+
+Compile-log:
+
+
+
+Checkstyle-Ausgabe:
+Starting audit...
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Wochentag.java:80:5: warning: Cyclomatic Complexity is 47 (max allowed is 20).
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Wochentag.java:80:5: warning: NPath Complexity is 240 (max allowed is 80).
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:8: In der Klassen-Dokumentation fehlt ein @author-Tag.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:17:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:18:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:19:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:20:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:22:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:28:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:37:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:55:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:59:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:63:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:67:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:71:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:75:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:79:5: Javadoc-Kommentar fehlt.
+/u1/labortest/pyCheck/tmp/pyCheck/i-gdpss2015/Gruppe6/GdPSS15A5/src/de/ostfalia/gdp/ss15/Analysis.java:90:5: Javadoc-Kommentar fehlt.
+Audit done.
+
+
+JUnit-Ausgabe:
+JUnit version 4.11
+.......................................
+Time: 0,041
+
+OK (39 tests)
+
+
